@@ -8,7 +8,7 @@ virustotal api
 ![ss](https://github.com/fthrsya/python_virustotal_scan/assets/13959011/712efcb7-e136-420a-9363-544d6419573a)
 
 email output
-![image](https://github.com/fthrsya/python_virustotal_scan/assets/13959011/118095bd-545f-4e7d-b923-0453bc1c201f)
+![image](https://github.com/fthrsya/python_virustotal_scan/assets/13959011/3ba212f3-82cc-48eb-9935-fd0c1729c6fe)
 
 py output
 
