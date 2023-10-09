@@ -10,23 +10,7 @@ virustotal api
 email output
 ![image](https://github.com/fthrsya/python_virustotal_scan/assets/13959011/118095bd-545f-4e7d-b923-0453bc1c201f)
 
-
 py output
 
-merhaba virustotal app hoşgeldiniz 
-
-Saatlik Kullanım 0 Sattlik Limit 240
-Saatlik api Kullanım oranı limiti %0
-Günlük Kullanım 0 Günlük Limit 500
-Günlük api Kullanım oranı limiti %0
-yandex.com
-google.com
-duckduckgo.com
-Saatlik Kullanım 9 Sattlik Limit 240
-Saatlik api Kullanım oranı limiti %3
-Günlük Kullanım 9 Günlük Limit 500
-Günlük api Kullanım oranı limiti %1
-success.
-
-
+![image](https://github.com/fthrsya/python_virustotal_scan/assets/13959011/3632248d-87fb-4502-97c0-a18833351e49)
 
