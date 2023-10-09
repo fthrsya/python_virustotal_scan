@@ -2,6 +2,8 @@
 Virustotal üzerinden verilen linkleri tarar ve sonuçları belirtilen mail adreslerine atar
 
 
+
+
 virustotal api
 ![ss](https://github.com/fthrsya/python_virustotal_scan/assets/13959011/712efcb7-e136-420a-9363-544d6419573a)
 
