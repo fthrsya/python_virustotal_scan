@@ -135,8 +135,9 @@ def all():
             id=ilk_sorgu(x)
             re_scan(id)
             print(x)
-            a,b,c,=sonuc_getir(id)
-            kontrol.append(x+" Tarama istatistikleri : "+str(a)+" Son analiz zamani : "+str(b))
+            a,b,c,=sonuc_getir(id) 
+            if c!=0:    #full liste gönderimi isteniliyorsa bu satır kaldırılmalı.
+                kontrol.append(x+" Tarama istatistikleri : "+str(a)+" Son analiz zamani : "+str(b))
 
         except:
             print(x + " olmadı")
@@ -145,8 +146,9 @@ def all():
 
 
         #bu kısım botun düzgün çalıştıgından emin olunduktan sonra açılacak.
-        #if sonuc_getir(id)>1:
-        #    kontrol.append
+        #if c!=0:
+        #    kontrol.append(x+" Tarama istatistikleri : "+str(a)+" Son analiz zamani : "+str(b))
+        
 
     kota_ogren()
 
